@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>netcoreapp2.0</TargetFramework>
+	<RuntimeFrameworkVersion>2.0.5</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+    <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <PackageReference Include="Microsoft.ASpNetCore.All" Version="2.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.2" />
+=======
+    <PackageReference Include="Microsoft.ASpNetCore.All" Version="2.0.5" />
+>>>>>>> 53f300b6990a655ad716177bab8ed3a267b8721d
+  </ItemGroup>  
+  
+</Project>
+
